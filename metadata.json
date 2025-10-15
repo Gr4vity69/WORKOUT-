@@ -1,0 +1,5 @@
+{
+  "name": "Workout Tracker AI",
+  "description": "An intelligent workout tracker that logs your progress and uses AI to provide personalized suggestions for improvement based on your performance history.",
+  "requestFramePermissions": []
+}
